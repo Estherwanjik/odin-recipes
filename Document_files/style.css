@@ -1,0 +1,9 @@
+#title {
+    background-color: brown;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.alert-text {
+    color: black;
+}
