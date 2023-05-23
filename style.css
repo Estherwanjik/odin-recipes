@@ -4,15 +4,24 @@
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
+.text .marinade {
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.text {
+    background-color: aqua;
+}
 
-.alert-text {
-    color: blue;
+.contents {
+    color: black;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .list,
 .steps {
 
     background-color: pink;
-    color: blue; 
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
 } 
-   
