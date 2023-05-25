@@ -7,15 +7,24 @@
 .text .marinade {
     font-weight: bold;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    padding: 28px 18px;
+    text-align: center;
 }
 .text {
     background-color: aqua;
+    padding: 16px;
+    margin: 24px 8px;
+    font-size: 18px;
 }
 
 .contents {
     color: black;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
+    margin-top: 16px;
+    font-size: 30px;
+    text-align: center;
 }
 
 .list,
@@ -24,4 +33,11 @@
     background-color: pink;
     color: blue;
     font-family: 'Times New Roman', Times, serif;
+    margin:  24px 250px; 
+    padding: 24px 150px;
+    display: inline-block;
 } 
+
+.box {
+    text-align: center;
+}
